@@ -1,0 +1,13 @@
+STUDENT_MNEMONIC = kit critic civil fun eight weekend clarify comfort vocal fish chronic defense remember game worry prosper age guitar vehicle accuse insect churn liar squirrel
+STUDENT_ADDRESS = VHTCSAQ2JVMAYJ5WQ6BBJWVIJJDSJYZ7DBBIYLY53WQSIGR4W66ZS2MXM
+
+COLLEGE_MNEMONIC = kit critic civil fun eight weekend clarify comfort vocal fish chronic defense remember game worry prosper age guitar vehicle accuse insect churn liar squirrel
+COLLEGE_ADDRESS = R53OQLMLJQ6ALWPT7FHOWYEQEVMMBO67GNQGB4LKOLBEYPQ6LZUMSGR5KA
+
+CINR_ASSET_ID = 10458941  # Official Testnet USDC
+
+APP_ID = 755414328
+APP_ADDRESS = XNYOP7SKZTKZPFTFUV5PNOQVBSKADARFSBYJ2KRB42H4YEACGUGOTU5ET4
+
+ALGO_VAULT_APP_ID = 755414724
+ALGO_VAULT_APP_ADDRESS = 7WD5INOSYBRKBBHJO7JL75XQ2M5WVELUQANCEO25LBG3525JJJ4Q5TRT5I
